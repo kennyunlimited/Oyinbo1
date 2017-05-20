@@ -18,6 +18,8 @@ import com.firebase.client.ValueEventListener;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Variables
+
     private TextView mScoreView;
     private TextView mQuestion;
     private Button mChoice1, mChoice2, mChoice3, mChoice4;
