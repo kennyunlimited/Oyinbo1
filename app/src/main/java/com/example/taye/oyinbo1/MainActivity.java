@@ -18,7 +18,7 @@ import com.firebase.client.ValueEventListener;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Variables
+    //Variable
 
     private TextView mScoreView;
     private TextView mQuestion;
